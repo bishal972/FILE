@@ -7,4 +7,4 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     import file_enc
 elif bit == '32bit':
-    import file_enc32
+    import Sarfraz32
